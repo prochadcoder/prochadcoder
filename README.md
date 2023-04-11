@@ -1,7 +1,7 @@
 <h2 align="center"> Hi, I'm Ninja Coder! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/procoderpapa/count.svg" /><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/prochadcoder/count.svg" /><br>
 </p>
 <img align='right' src="https://user-images.githubusercontent.com/128994167/227792778-0f75d834-3ebb-436e-b013-d3e3826114d3.gif" width="230">
 <p><em>C.E.O at Own Startup<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
